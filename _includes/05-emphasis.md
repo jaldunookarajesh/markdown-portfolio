@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**This is bold as it is intentional**
+*This is italic*
+
+`a+b = 2`
+
+It is not christmas 🎄 time yet.
